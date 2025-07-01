@@ -1,10 +1,15 @@
 # Client-Side Chat Application
 
 Company: CODTECH IT SOLUTIONS
+
 Name: ADYASHA ADITI MOHANTY 
+
 Intern ID: CT04DG12
+
 Domain: Java Programming
+
 Duration: 4 Weeks
+
 Mentor: Neela Santosh
 
 
